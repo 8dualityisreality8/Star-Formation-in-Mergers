@@ -1,0 +1,16 @@
+Outside-IFU pairs: 492
+Outside-IFU Subsample+Mass pairs: 405
+Outside-IFU SFG+Subsample+Mass pairs: 115
+
+Outside-IFU controls: 5120
+Outside-IFU Subsample+Mass controls: 4242
+Outside-IFU SFG+Subsample+Mass controls: 1830
+
+Inside-IFU pairs: 404
+Inside-IFU Subsample+Mass pairs: 317
+Inside-IFU SFG+Subsample+Mass pairs: 54
+
+Inside-IFU controls: 5120
+Inside-IFU Subsample+Mass controls: 4250
+Inside-IFU SFG+Subsample+Mass controls: 1838
+
