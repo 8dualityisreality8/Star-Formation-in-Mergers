@@ -10,3 +10,5 @@ Next I will define each of our pair and control samples. Paired galaxies are sel
 
 ## Analysis
 I then take the median ssfr radial profiles for pairs and control galaxies and compare the profiles against one another.
+
+This work has been published to Steffen et al. 2021, https://arxiv.org/pdf/2102.03398.pdf.
