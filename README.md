@@ -12,6 +12,6 @@ Next we will define our pair and control samples. While two galaxies may appear 
 
 ## Analysis
 With the two sample constructed, we compare the sSFR data between the pair and control samples.
-![Figure 1](https://github.com/jlsteffen/MergerSF/blob/main/ssfr_comb.pdf)
+![Figure 1](https://github.com/jlsteffen/MergerSF/blob/main/ssfr_comb.jpg)
 
 This work has been published to Steffen et al. 2021, https://arxiv.org/pdf/2102.03398.pdf.
