@@ -1,14 +1,17 @@
 # Radial Profiles of Specific Star Formation in Galaxy Pairs with MaNGA
 
-The goal of this project is to see whether or not galaxy mergers incite new, merger-induced, star foramtion in paired galaxies. I will compute the radial profiles of the specific star formation rate (ssfr) in galaxy pairs and isolated control galaxies. Then I will take the difference between the profiles of the paired galaxies and the isolated control galaxies to see if paired galaxies feature higher or lower ssfr in comparison to control galaxies.
+## The Goal
+
+The goal of this project is to see whether or not galaxy interactions can enhance their rates of star formation. We will compute the specific star formation rate (sSFR) across the surfaces of the galaxies in our sample. Then we will compare the sSFRs in paired galaxies to a sample of control galaxies to test if galaxy interactions do indeed enhance the sSFR. 
 
 ## Radial Profiles
-MaNGA provides a 2D distribution of galaxy spectra for each of its observations. To prep the data for comparison, I will reduce the 2D distribution of ssfr in each observation to a 1D ssfr profile as a function of the galaxy's radius. The radius is given in terms of the effective radius, the radius which contains 50% of the total light for the galaxy, so that the profiles of galaxies of various sizes can be compared with each other. The galaxy profiles will also be deprojected to a circular profile using each galaxy's position angle. 
+MaNGA provides a 2D distribution of galaxy spectra for each of its observations. To prep the data for comparison, we will reduce the 2D distribution of ssfr in each observation to a 1D ssfr profile as a function of the galaxy's radius. The radius is given in terms of the effective radius, the radius which contains 50% of the total light for the galaxy, so that the profiles of galaxies of various sizes can be compared with each other. Typical galaxies are circular; however, if they are at an angle with the observer they will appear to be an ellipse on the sky. We deproject the geometry of the galaxies to account for this effect.
 
 ## Sample Selection
-Next I will define each of our pair and control samples. Paired galaxies are selected to be within a line-of-sight velocity of 500 km/s, a projected separation of 50 kpc, and a stellar mass range of log(M/M_sun) = 9-11.5. Pairs are selected from within the MaNGA fields-of-view and from the NASA-Sloan atlas. Control galaxies are the MaNGA galaxies with no observed companion galaxy. Star forming galaxies are selected by BPT analysis.
+Next we will define our pair and control samples. While two galaxies may appear close to each other on the sky, they are not necessarily close to each other in space. To verify that they are paired galaxies, the two galaxies need to be near each other on the sky, have a similar redshift (which tells us how far the galaxies are from us), and have a limited relative velocity between the two galaxies. Paired galaxies are identified within the MaNGA survey's footprint and from other surveys which share MaNGA's footprint. The control galaxies are then the MaNGA galaxies with no observed companion galaxy.
 
 ## Analysis
-I then take the median ssfr radial profiles for pairs and control galaxies and compare the profiles against one another.
+With the two sample constructed, we compare the sSFR data between the pair and control samples.
+
 
 This work has been published to Steffen et al. 2021, https://arxiv.org/pdf/2102.03398.pdf.
