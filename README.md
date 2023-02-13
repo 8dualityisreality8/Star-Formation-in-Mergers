@@ -18,7 +18,7 @@ The star formation rate is the number of stars that are created in a galaxy or a
 
 When stars are born, they are not created one at a time. They are created in groups in what are called stellar nurseries. The new population of stars are not identical and will have varying masses. The most massive stars, O and B type stars, are very lumoinous but will also have short lifespans (only a few million years). This means that if we detect tracers of OB stars, the galaxy or region must have recently created new stars. One tracer of OB stars with optical spectra is the H-alpha emission line shown in the figure below. This emission line is created by hydrogen gas which has been ionized by nearby OB stars. The luminosity of the line is directly related to the star formation rate. That is, galaxies with stronger H-alpha luminosites are creating more new stars. 
 
-![Figure 2](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/spectra.jpg)
+![Figure 2](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/7975-6104.png)
 
 Unfortunetely, there is a caveat to using the H-alpha line to infer star formation rates. There are other sources that can ionize hydrogen gas. The main one is an active galactic nucleus (AGN). An AGN is where the region around a galaxy's central supermassive black hole emits high energy photons because the black hole is accreting large amounts of material. Another sources is from hot low-mass evolved stars which may also be able to ionize hydrogen gas. Fortunetely, these ionization sources can be separted from each other using the galaxy's spectra. 
 
