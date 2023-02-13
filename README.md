@@ -6,7 +6,7 @@ The goal of this project is to see whether or not galaxy interactions can enhanc
 
 ## The Survey 
 
-<img align="left" width="350" height="300" src="https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/manga_v3.jpg"> 
+<img align="left" width="400" height="350" src="https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/manga_v3.jpg"> 
 
 This work is based on the data from the SDSS's (Sloan Digital Sky Survey) MaNGA (Mapping Nearby Galaxies at Apache Point Observatory) survey. MaNGA is an integral field spectroscopic (IFS) survey which has observed 10,000 nearby galaxies. Spectroscopy takes the light from an object and splits it by wavelength. We can tell many things about an object by its spectra. You can tell what king of object you are looking at, the ages of stars, the chemical composition, et cetera.
 
