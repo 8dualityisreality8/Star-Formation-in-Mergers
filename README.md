@@ -28,7 +28,7 @@ The middle panel shows the BPT diagram (Baldwin et al. 1981) of our galaxies. Th
 
 The right panel shows the WHAN diagram (Cid Fernandes et al. 2011) of our galaxies. The panel plots an emission line ratio on the x axis against the equivalent width of the H-alpha line on the y axis. Cid Fernandes et al. 2011 has shown that the equivalent width of the H-alpha line is a good tracer for hot low mass evolved stars and that galaxies whose emission lines are dominated by these objects can be separated by imposing an H-alpha equivalent width cut at 3 Angstroms. Using these three methods, we create a sample of star forming galaxies. 
 
-![Figure 3](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/bpt-cmd.pdf)
+![Figure 3](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/bpt-cmd.png)
 
 ## Sample Selection
 With a set of star forming galaxies identified in the survey, we need to determine which galaxies are actually gravitationally paired with the target galaxies. While two galaxies may appear close to each other on the sky, there may be a significant distance between the two objects along our line-of-sight. To verify that they are paired galaxies, the two galaxies need to be near each other on the sky, have a similar redshift (which tells us how far the galaxies are from us), and have a limited relative velocity between the two galaxies. Since we want to study how galaxy mergers influence star formation, we also create a sample of isolated control galaxies which have no nearby companions. In total, we have 169 paired galaxies and 1830 control galaxies to work with. 
@@ -36,7 +36,7 @@ With a set of star forming galaxies identified in the survey, we need to determi
 ## Radial Profiles
 MaNGA provides a 2D distribution of galaxy spectra for each of its observations. To prep the data for comparison, we will reduce this 2D distribution to a 1D profile as a function of the galaxy's radius. Typical galaxies are circular; however, if they are at an angle with the observer they will appear to be an ellipse on the sky. The geometry of the galaxies needs to be deprojected to account for this effect. I show this process in the plot below. The left panel shows one of the survey's galaxies with elliptical profiles from various previous surveys overlaid. I calculate the inclination angle for the galaxies using the major-to-minor axis ratio of the shown ellipses. The inclination angle is then used to calculate each pixel's radius as shown in the middle panel. In the right panel we now show the star formation rate as a function of galaxy radius. The black squares represent individual pixels while the red line shows the average star formation rate within discrete radius bins. We create these star formation profiles for each galaxy in our pair and control samples. 
 
-![Figure 4](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/8332-12702.pdf)
+![Figure 4](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/8332-12702.png)
 
 ## Analysis
 With the two samples constructed and radial profiles created, we compare the star formation rate data between the pair and control samples.
