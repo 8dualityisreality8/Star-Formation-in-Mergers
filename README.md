@@ -45,6 +45,14 @@ The star formation is centrally enhanced in the centers of the paired galaxies w
 
 ![Figure 5](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/ssfr_comb.jpg)
 
+#
 
+While the results have no correlation with galaxy mass, there may be other parameters that do influence the star formation rate in mergers. One possible thing to consider is where the galaxy pair is at in the merger event. Are the two galaxies actively colliding, have they just collided, or are they still on approach to the first collision? The timescale of a merger event is on the order of 100 million to a billion years, so the galaxy mergers that we see on the sky is just a small snapshot in time which makes it difficult to tell exactly what part of the merger event the two galaxies are in. A decent proxy for merger stage is the separation between the two galaxies. If the two galaxies are closely separated, they are either actively interacting or have just passed their first or second pericenter. If the two galaxies have a wide separation, they may at the apocenter after their first collision or they may still be on the approach to their first collision. 
+
+If the two galaxies have not collided yet, it is unlikely that they will experience any merger induced effects and the strongest merger induced effects are likely to occur just after the galaxies collide. This means that we would expect that the centrally enhanced star formation in our paired galaxies to occur at short separations and we would expect that widely separated pair would show little to no enhancement to their star formation rates. 
+
+To study this in our data, I need to come up with a different way to split our pair sample. 
+
+![Figure 6](https://github.com/jlsteffen/Star-Formation-in-Mergers/blob/main/images/ssfr_sep.png)
 
 This work has been published in [Steffen et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...909..120S/abstract).
